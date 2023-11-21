@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krutifulme
+- 👋 Hi, I’m @Krutifulmen
 - 👀 I’m interested in Programming and English
 - 🌱 I’m currently learning Python
 - 🇷🇺 I am Russian
