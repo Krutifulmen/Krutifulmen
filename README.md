@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Krutifulmen
-- 👀 I’m interested in Programming and English
-- 🌱 I’m currently learning Python
-- 🇷🇺 I am Russian
-- 📫 I am kind
+[![Hi, I am Krutifulmen!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!---
-Krutifulmen/Krutifulmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=krutifulmen&style=plastic)
